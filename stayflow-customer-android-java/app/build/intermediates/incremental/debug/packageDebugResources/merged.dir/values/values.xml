@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#090A0D</color>
+    <color name="ic_launcher_background">#EF233C</color>
+    <color name="primary">#EF233C</color>
+    <color name="primary_header">#991B1B</color>
+    <color name="secondary">#FF4D5F</color>
+    <color name="surface">#15171C</color>
+    <color name="text">#F8FAFC</color>
+    <style name="Theme.StayFlow" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorSecondary">@color/secondary</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowBackground">@color/background</item>
+        
+        <item name="android:statusBarColor">@color/primary_header</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+    <style name="Theme.StayFlow.Splash" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:statusBarColor">@color/primary</item>
+        <item name="android:navigationBarColor">@color/primary</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>

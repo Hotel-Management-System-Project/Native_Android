@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.stayflow.customer.app-debug-34:/drawable_splash_mark.xml.flat",
+        "source": "com.stayflow.customer.app-main-36:/drawable/splash_mark.xml"
+    },
+    {
+        "merged": "com.stayflow.customer.app-debug-34:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.stayflow.customer.app-main-36:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.stayflow.customer.app-debug-34:/mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "com.stayflow.customer.app-main-36:/mipmap-anydpi/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.stayflow.customer.app-debug-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.stayflow.customer.app-main-36:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.stayflow.customer.app-debug-34:/mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "com.stayflow.customer.app-main-36:/mipmap-anydpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.stayflow.customer.app-debug-34:/drawable_ic_launcher_legacy.xml.flat",
+        "source": "com.stayflow.customer.app-main-36:/drawable/ic_launcher_legacy.xml"
+    },
+    {
+        "merged": "com.stayflow.customer.app-debug-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.stayflow.customer.app-main-36:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

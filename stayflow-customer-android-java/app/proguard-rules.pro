@@ -1,0 +1,3 @@
+-keepattributes Signature
+-keepattributes *Annotation*
+-keep class com.stayflow.customer.model.** { *; }
